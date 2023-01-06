@@ -1,0 +1,1 @@
+This directory contains input *.xlsx files with lists of numbers
