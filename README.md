@@ -1,7 +1,7 @@
 # BARCODE GENERATOR
 ## From EXCEL to PDF
 ### Install
-* `git clone https://lucny@github.com/barcode-generator`
+* `git clone https://github.com/lucny/barcode-generator`
 * `cd barcode-generator`
 * `pip install -r requirements.txt`
 
